@@ -14,3 +14,6 @@ Modifiy the snippets contained herein,
   
   // TODO. Update the rest of this file.
   
+https://github.com/pikanji/CameraPreviewSample/blob/master/src/net/pikanji/camerapreviewsample/MainActivity.java
+http://jylee-world.blogspot.co.nz/2014/12/a-tutorial-of-androidhardwarecamera2.html
+https://developer.android.com/guide/topics/manifest/uses-feature-element.html#permissions-features
