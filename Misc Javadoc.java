@@ -47,6 +47,6 @@ Image
 
 // TODO Read the following link for better explination.
 
-@Source: http://www.oracle.com/technetwork/java/javase/documentation/index-137868.html#exampleresult
- 
- 
+#Ref: http://www.oracle.com/technetwork/java/javase/documentation/index-137868.html#exampleresult
+#Ref: http://docs.oracle.com/javase/7/docs/technotes/tools/windows/javadoc.html#javadoctags 
+#Ref: http://docs.oracle.com/javase/specs/
